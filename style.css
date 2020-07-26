@@ -1,0 +1,92 @@
+
+
+
+body,html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	text-align: center;
+	background-color: #F0EBC8;
+}
+
+.webtext {
+	margin-left: 20px;
+	font-family: 'Ultra', serif;
+	font-size: 200%;
+}
+
+.container {
+	width: 870px;
+	border: 1px solid black; 
+	float: left;
+	text-align: left;
+	margin-bottom: 20px;
+	margin-right: 10px;
+}
+
+
+figure {
+	float: left;
+	margin-right: 10px;
+}
+
+img {
+	transition: all 1s;
+}
+
+
+
+img:hover {
+	transform: scale(1.1);
+}
+
+
+
+
+h6 {
+    font-family: 'El Messiri', sans-serif;
+}
+
+header {
+	font-family: 'Merriweather', serif;
+	text-transform: capitalize;
+}
+
+
+
+hr {
+	border: 0.5px solid green;
+	width: 200px;
+	height: 0px;
+}
+
+
+
+
+.line {
+	width: all;
+}
+
+
+
+
+
+
+p {
+	font-family: 'Vollkorn', serif;
+	font-size: 125%;
+	text-align-last: left;
+	margin-left: 20px;
+}
+
+
+li {
+	font-family: 'Rokkitt', serif;
+}
+
+
+.first {
+	text-align-last: left;
+}
