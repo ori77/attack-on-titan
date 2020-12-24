@@ -8,17 +8,14 @@ body,html {
 
 body {
 	text-align: center;
-	background-color: #d5f4e6;
+	background-color: #B0E0E6;
 }       
 
-.navbar-brand {
+
+navbar-heading {
 	font-family: 'Hanalei Fill', cursive;
  	font-size: 400%;
 }
-
-
-
-
 
 .webtext {
 	margin-left: 20px;
